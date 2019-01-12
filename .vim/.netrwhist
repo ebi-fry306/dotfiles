@@ -1,3 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/home/ebi_fry306/aikatsu_birthday'
+let g:netrw_dirhist_2='/home/ebi_fry306/mstdn/app/javascript/images'
+let g:netrw_dirhist_3='/var/lib/postgres/olddata'
+let g:netrw_dirhist_4='/home/ebi_fry306/.rbenv/versions'
